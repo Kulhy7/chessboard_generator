@@ -1,8 +1,13 @@
+# Copyright (c) 2025 Luboš Kulhan (aka Adam Kaiser, GitHub: Kulhy)
+# Licensed under MIT License
+
+
 # ==============================================
 #  Program: Chessboard
 #  Author: Luboš Kulhan | alias: Adam Kaiser
 #  Description: Program for generating a chessboard
 # ==============================================
+
 import os
 def sachovnice(a,b,c,z):
     a = int(a)
